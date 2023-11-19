@@ -1,4 +1,4 @@
-﻿namespace Domain.Models
+﻿namespace SAML_provider
 {
     public class SAMLParameters
     {

@@ -8,7 +8,7 @@ using System.Security.Cryptography;
 using System.Deployment.Internal.CodeSigning;
 using System.Security.Cryptography.Xml;
 
-namespace Domain.Models
+namespace SAML_provider
 {
     public class SAMLRequest
     {

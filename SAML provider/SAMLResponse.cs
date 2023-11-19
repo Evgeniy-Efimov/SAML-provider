@@ -8,7 +8,7 @@ using System.Text;
 using System.Web;
 using System.Xml;
 
-namespace Domain.Models
+namespace SAML_provider
 {
     public class SAMLResponse
     {
